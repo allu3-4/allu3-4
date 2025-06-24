@@ -6,8 +6,7 @@ Currently collaborating on a data-driven website for Finnish Liiga hockey that l
 
 Twitter: https://x.com/mfttf_
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allu3-4&theme=nord&hide_border=false" alt="GitHub Streak" width="400" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allu3-4&theme=nord&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" width="400" />
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=allu3-4&theme=nord&hide_border=false" alt="GitHub Streak" width="400" />
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allu3-4&theme=nord&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" width="400" />
+
