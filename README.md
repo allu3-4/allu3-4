@@ -8,7 +8,7 @@ Currently collaborating on a data-driven website for Finnish Liiga hockey that l
 
 ---
 
-[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mfttf_)
+https://x.com/mfttf_
 
 ---
 
