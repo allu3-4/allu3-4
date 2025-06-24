@@ -10,7 +10,7 @@ Currently collaborating on a data-driven website for Finnish Liiga hockey that l
 
 ### Connect with me
 
-[![Twitter Follow](https://img.shields.io/badge/Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mfttf_)
+[![Twitter](https://img.shields.io/badge/Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mfttf_)
 
 ---
 
