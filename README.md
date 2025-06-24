@@ -6,8 +6,19 @@ Currently collaborating on a data-driven website for Finnish Liiga hockey that l
 
 Twitter: https://x.com/mfttf_
 
-![allu3-4's Streak](https://github-readme-streak-stats.herokuapp.com/?user=allu3-4&theme=nord&hide_border=false)
-![allu3-4's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allu3-4&theme=nord&show_icons=true&hide_border=false&layout=compact)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mfttf&hide_border=true" alt="GitHub Streak" />
+
+  <br />
+
+  <a href="https://github.com/mfttf">
+    <img height="250" src="https://github-readme-stats.vercel.app/api?username=mfttf&rank_icon=github&show=prs_merged,prs_merged_percentage" />
+  </a>
+  <a href="https://github.com/mfttf">
+    <img height="250" src="https://api.githubtrends.io/user/svg/mfttf/langs?time_range=six_months&include_private=True&loc_metric=changed&theme=classic" />
+  </a>
+</div>
+
 <!--
 **allu3-4/allu3-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
