@@ -6,8 +6,6 @@ Developing Python and SQL skills as a personal interest, aiming to broaden my sk
 
 Currently collaborating on a data-driven website for Finnish Liiga hockey that leverages statistical models and AI to generate predictions for bettors.
 
----
-
 https://x.com/mfttf_
 
 ---
