@@ -1,6 +1,5 @@
-## Hi 👋
+## Moi
 
-Business Student in Finland
 Developing Python and SQL skills as a personal interest, aiming to broaden my skill set beyond my studies
 
 Currently collaborating on a data-driven website for Finnish Liiga hockey that leverages statistical models and AI to generate predictions for bettors
