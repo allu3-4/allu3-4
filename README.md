@@ -1,4 +1,4 @@
-## Moi
+## 👋
 
 Developing Python and SQL skills as a personal interest, aiming to broaden my skill set beyond my studies
 
