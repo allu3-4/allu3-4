@@ -1,8 +1,8 @@
 ## 👋 
 
-Developing Python and SQL skills as a personal interest, aiming to broaden my skill set beyond my studies.
+Learning Python and SQL  as a personal interest, wanting to broaden my skill set beyond my studies.
 
-Currently collaborating on a data-driven website for Finnish Liiga hockey that leverages statistical models and AI to generate predictions for bettors.
+Currently collaborating on a data-driven website for Liiga, Finlands top hockey league, that leverages statistical models and AI to generate predictions for bettors.
 
 ---
 
